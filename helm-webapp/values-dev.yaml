@@ -3,4 +3,4 @@ replicas: 2
 
 configmap:
   data:
-    CUSTOM_HEADER: 'This is on Chip's DEV environment!'
+    CUSTOM_HEADER: 'This is on Chips DEV environment!'
